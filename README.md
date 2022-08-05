@@ -12,4 +12,4 @@ node index.js
 ```
 
 ## License
-This project is licensed under the [LICENSE](LICENSE) Apache V2.
+This project is licensed under the [LICENSE](LICENSE) Apache V2
